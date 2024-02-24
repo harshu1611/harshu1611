@@ -21,4 +21,6 @@ Technical Stack:
 <br>
 ![React](https://img.shields.io/badge/React.js-blue?style=for-the-badge&logo=react&logoColor=#61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-white?style=for-the-badge&logo=nodedotjs&logoColor=#339933)
-![Javascript](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=javascript&logoColor=#F7DF1E)
+![Javascript](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript&logoColor=#F7DF1E)
+![Typescript](https://img.shields.io/badge/Typescript-white?style=for-the-badge&logo=typescript&logoColor=#3178C6)
+
