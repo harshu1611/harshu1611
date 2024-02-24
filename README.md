@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 ### I am a Full Stack Developer with MERN stack and Android Developer with React Native and Ionic Capacitor.
 
 Technical Stack:
-#![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+![React](https://img.shields.io/badge/React.js-blue?style=for-the-badge&logo=react&logoColor=#61DAFB)
+
