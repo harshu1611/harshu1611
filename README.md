@@ -20,4 +20,5 @@ Here are some ideas to get you started:
 Technical Stack:
 <br>
 ![React](https://img.shields.io/badge/React.js-blue?style=for-the-badge&logo=react&logoColor=#61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js?style=for-the-badge&logo=nodedotjs&logoColor=#339933)
 
