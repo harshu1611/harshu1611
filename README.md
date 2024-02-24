@@ -28,6 +28,12 @@ Technical Stack:
 <br>
 ![Ionic](https://img.shields.io/badge/Ionic-white?style=for-the-badge&logo=ionic&logoColor=#3880FF)
 ![Supabase](https://img.shields.io/badge/Supabase-white?style=for-the-badge&logo=supabase&logoColor=#3FCF8E)
+![Express](https://img.shields.io/badge/Express-white?style=for-the-badge&logo=express&logoColor=#000000)
+![Redux](https://img.shields.io/badge/Redux-blue?style=for-the-badge&logo=redux&logoColor=#764ABC)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=#3776AB)
+
+
+
 
 
 
