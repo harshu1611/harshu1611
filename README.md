@@ -24,7 +24,7 @@ Technical Stack:
 ![Javascript](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript&logoColor=#F7DF1E)
 ![Typescript](https://img.shields.io/badge/Typescript-white?style=for-the-badge&logo=typescript&logoColor=#3178C6)
 ![CSS](https://img.shields.io/badge/CSS-white?style=for-the-badge&logo=css3&logoColor=#1572B6)
-![MongoDB](https://img.shields.io/badge/Mongo-DB-white?style=for-the-badge&logo=mongodb&logoColor=#47A2486)
+![MongoDB](https://img.shields.io/badge/Mongo_DB-white?style=for-the-badge&logo=mongodb&logoColor=#47A2486)
 <br>
 ![Ionic](https://img.shields.io/badge/Ionic-white?style=for-the-badge&logo=ionic&logoColor=#3880FF)
 ![Supabase](https://img.shields.io/badge/Supabase-white?style=for-the-badge&logo=supabase&logoColor=#3FCF8E)
