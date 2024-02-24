@@ -34,10 +34,8 @@ Technical Stack:
 
 ## Connect with Me
 <a href="https://www.linkedin.com/in/harshagr0711" target="_blank">
-  <img src="https://camo.githubusercontent.com/6eeeae9698286e45eda5d2973026a896fd42fa7f4271bf31aa74e9557e82181a/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667">
+  <img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=#0A66C2">
 </img>
-
-[LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=#0A66C2)
 </a>
 
 
