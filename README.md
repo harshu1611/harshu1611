@@ -37,6 +37,10 @@ Technical Stack:
   <img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=blue">
 </img>
 </a>
+<a href="mailto: harsh.mobile231@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=#EA4335">
+</img>
+</a>
 
 
 
