@@ -33,9 +33,8 @@ Technical Stack:
 ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=#3776AB)
 
 ## Connect with Me
-![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=#0A66C2&link=http://linkedin.com/harshagr0711)[2]
+![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=#0A66C2)[2]
 
-[2]: https://www.linkedin.com/in/your_contact_info
 
 
 
